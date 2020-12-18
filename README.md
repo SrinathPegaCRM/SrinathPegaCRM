@@ -1,6 +1,6 @@
 # Hi Srinath Pega 👋
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://facebook.com/SrinathPega">
+  <img align="left" alt="Srinath Pega" width="25px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/facebook.svg" />
 </a>
 <a href="https://twitter.com/SrinathPega">
   <img align="left" alt="Srinath Pega | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
