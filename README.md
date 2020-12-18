@@ -16,9 +16,13 @@
   <img align="left" alt="Srinath Pega's Linkedin" width="25px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/wordpress.svg" /></a>
   <a href="https://www.flickr.com/people/srinathpega/">
   <img align="left" alt="Srinath Pega's Linkedin" width="25px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/flickr.svg" /></a>
+  <br/>
+  <br/>
+  
+  <img align="center" alt="Srinath Pega's Linkedin" width="25px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/" />
 
 
-<img align="center" alt="Srinath Pega's Linkedin" width="100%" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/SrinathPega.jpg" /></a>
+
 <!--
 **SrinathPegaCRM/SrinathPegaCRM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![](https://visitor-badge.glitch.me/badge?page_id=srinathpegacrm.srinathpegacrm)
