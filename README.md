@@ -1,6 +1,6 @@
 # Hi Srinath Pega 👋
 <a href="https://youtube.com/SrinathPegaCRM">
-  <img align="left" alt="Srinath Pega" width="40px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/youtube.svg" />
+  <img align="left" alt="Srinath Pega" width="40px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/youtube.svg" target="_blank" />
 </a><a href="https://facebook.com/SrinathPega">
   <img align="left" alt="Srinath Pega" width="40px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/facebook.svg" />
 </a>
