@@ -1,17 +1,17 @@
 # Hi Srinath Pega 👋 
 
 <a href="https://youtube.com/SrinathPegaCRM">
-  <img align="left" alt="Srinath Pega" width="30px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/youtube.svg" /></a>
+  <img align="left" alt="Srinath Pega" width="25px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/youtube.svg" /></a>
 <a href="https://facebook.com/SrinathPega">
-  <img align="left" alt="Srinath Pega" width="30px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/facebook.svg" /></a>
+  <img align="left" alt="Srinath Pega" width="25px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/facebook.svg" /></a>
 <a href="https://twitter.com/SrinathPega">
-  <img align="left" alt="Srinath Pega | Twitter" width="30px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/twitter.svg" /></a>
+  <img align="left" alt="Srinath Pega | Twitter" width="25px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/srinathpega/">
-  <img align="left" alt="Srinath Pega's Linkedin" width="30px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/linkedin.svg" /></a>
+  <img align="left" alt="Srinath Pega's Linkedin" width="25px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/linkedin.svg" /></a>
 <a href="https://www.linkedin.com/in/srinathpega/">
-  <img align="left" alt="Srinath Pega's Linkedin" width="30px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/messenger.svg" /></a>
+  <img align="left" alt="Srinath Pega's Linkedin" width="25px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/messenger.svg" /></a>
 <a href="https://www.linkedin.com/in/srinathpega/">
-  <img align="left" alt="Srinath Pega's Linkedin" width="30px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/wordpress.svg" /></a>
+  <img align="left" alt="Srinath Pega's Linkedin" width="25px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/wordpress.svg" /></a>
 
 
 
