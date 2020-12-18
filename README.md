@@ -6,7 +6,7 @@
   <img align="left" alt="Srinath Pega" width="40px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/facebook.svg" />
 </a>
 <a href="https://twitter.com/SrinathPega">
-  <img align="left" alt="Srinath Pega | Twitter" width="22px" src="https://img.shields.io/twitter/follow/SrinathPega?style=social" />
+  <img align="left" alt="Srinath Pega | Twitter" width="30px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/srinathpega/">
   <img align="left" alt="Srinath Pega's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
