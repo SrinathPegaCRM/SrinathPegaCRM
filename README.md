@@ -10,6 +10,8 @@
   <img align="left" alt="Srinath Pega's Linkedin" width="25px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/linkedin.svg" /></a>
 <a href="https://m.me/PegaSrinath">
   <img align="left" alt="Srinath Pega's Linkedin" width="25px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/messenger.svg" /></a>
+  <a href="https://www.instagram.com/srinath_pega/">
+  <img align="left" alt="Srinath Pega's Linkedin" width="25px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/instagram.svg" /></a>
 <a href="https://srinathpega.wordpress.com/">
   <img align="left" alt="Srinath Pega's Linkedin" width="25px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/wordpress.svg" /></a>
 
