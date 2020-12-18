@@ -9,7 +9,7 @@
   <img align="left" alt="Srinath Pega | Twitter" width="35px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/srinathpega/">
-  <img align="left" alt="Srinath Pega's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Srinath Pega's LinkedIN" width="35px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/linkedin.svg" />
 </a>
 
 <!--
