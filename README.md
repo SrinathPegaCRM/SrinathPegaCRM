@@ -14,6 +14,8 @@
   <img align="left" alt="Srinath Pega's Linkedin" width="25px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/instagram.svg" /></a>
 <a href="https://srinathpega.wordpress.com/">
   <img align="left" alt="Srinath Pega's Linkedin" width="25px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/wordpress.svg" /></a>
+  <a href="https://www.flickr.com/people/srinathpega/">
+  <img align="left" alt="Srinath Pega's Linkedin" width="25px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/flickr.svg" /></a>
 
 
 
