@@ -10,6 +10,14 @@
 <a href="https://www.linkedin.com/in/srinathpega/">
   <img align="left" alt="Srinath Pega's Linkedin" width="35px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/linkedin.svg" />
 </a>
+<a href="https://www.linkedin.com/in/srinathpega/">
+  <img align="left" alt="Srinath Pega's Linkedin" width="35px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/messenger.svg" />
+</a>
+<a href="https://www.linkedin.com/in/srinathpega/">
+  <img align="left" alt="Srinath Pega's Linkedin" width="35px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/wordpress.svg" />
+</a>
+
+
 
 <!--
 **SrinathPegaCRM/SrinathPegaCRM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
