@@ -17,8 +17,8 @@
   <a href="https://www.flickr.com/people/srinathpega/">
   <img align="Right" alt="Srinath Pega's Linkedin" width="25px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/flickr.svg" /></a>
 
-  
-  <img align="center" alt="Srinath Pega" width="100%" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/SrinathPega.jpg" />
+
+<img align="center" alt="Srinath Pega" width="100%" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/SrinathPega.jpg" />
 
 <!--
 
