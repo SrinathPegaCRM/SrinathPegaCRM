@@ -1,5 +1,10 @@
 # Hi Srinath Pega 👋    
-###### Business Application Developer
+### Business Application Developer
+
+### Web Developer
+[![Tamilarasu Arunachalam LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)](https://www.linkedin.com/in/SrinathPega/)
+[![Tamilarasu Arunachalam Github](https://img.shields.io/badge/-GitHub-000000?style=plastic&logo=GitHub)](https://www.github.com/SrinathPega/)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Tamilarasu21.Tamilarasu21)<br/>
  <a href="https://youtube.com/SrinathPegaCRM">
   <img align="Right" alt="Srinath Pega" width="25px" src="https://github.com/SrinathPegaCRM/SrinathPegaCRM/blob/main/Images/youtube.svg" /></a>
 <a href="https://facebook.com/SrinathPega">
